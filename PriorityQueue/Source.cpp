@@ -1,5 +1,5 @@
 // C++ implementation of a priority queue
-#if 0
+
 #include <iostream>
 using namespace std;
 
@@ -124,4 +124,3 @@ int main() {
     PQHeap queue;
     return 0;
 }
-#endif
